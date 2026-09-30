@@ -151,9 +151,3 @@ This project uses a **single TAX_RATE = 20% input cell** — change once, recalc
   5. Monthly Analysis
   6. Management Insights
   7. Dashboard
-
----
-
-## 📬 Contact
-
-Built by **[Your Name]** · [LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
